@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"$frankenweenie walk","classId":1,"equips":[0,0,2,3,0],"faceIndex":0,"faceName":"santiago talk","traits":[],"initialLevel":1,"maxLevel":99,"name":"Santiago","nickname":"Santiago","note":"","profile":"He's a REALLY stupid shepard who has yet to find his\npersonal legend."},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"$sheepwalk","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"sheep yap","traits":[],"initialLevel":1,"maxLevel":99,"name":"Sheep","nickname":"Sheep","note":"","profile":"They're so flipping stupid! All they think about is\nfood and water."},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"$camel walk","classId":3,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"camel yapperoonie","traits":[],"initialLevel":1,"maxLevel":99,"name":"Camel","nickname":"Camel","note":"","profile":"Camel"},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"$englishman","classId":4,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"english man yep","traits":[],"initialLevel":1,"maxLevel":99,"name":"Englishman","nickname":"Englishman","note":"","profile":"Oi mate. I'm an alchemist (he's not)"},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"$freddywalk","classId":5,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"freddy yapzbear","traits":[],"initialLevel":1,"maxLevel":99,"name":"Freddy Fazbear","nickname":"Freddy Fazbear","note":"","profile":"Har har har har har harharharharhar"},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"$camel walk","classId":3,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"camel yapperoonie","traits":[],"initialLevel":1,"maxLevel":99,"name":"Camel","nickname":"Camel","note":"","profile":"Camel"},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"$englishman","classId":4,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"english man yep","traits":[],"initialLevel":1,"maxLevel":99,"name":"Englishman","nickname":"Englishman","note":"","profile":"From the UK, probably"},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"$alchemist walk","classId":6,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"alchemist speak","traits":[],"initialLevel":1,"maxLevel":99,"name":"The Alchamist","nickname":"The Alchemist","note":"","profile":"Really cool"}
+]
