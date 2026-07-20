@@ -1,7 +1,0 @@
-[
-null,
-{"id":1,"list":[{"code":111,"indent":0,"parameters":[12,"$gameTroop.isEnemyReinforcementAdded(17, 1, true)"]},{"code":0,"indent":1,"parameters":[]},{"code":411,"indent":0,"parameters":[]},{"code":356,"indent":1,"parameters":["remove_enemy 1 from troop 17"]},{"code":356,"indent":1,"parameters":["add_enemy 1 from troop 17"]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":111,"indent":0,"parameters":[12,"$gameTroop.isEnemyReinforcementAdded(17, 2, true)"]},{"code":0,"indent":1,"parameters":[]},{"code":411,"indent":0,"parameters":[]},{"code":356,"indent":1,"parameters":["remove_enemy 2 from troop 17"]},{"code":356,"indent":1,"parameters":["add_enemy 2 from troop 17"]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"Summon Chompy","switchId":1,"trigger":0},
-{"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
-{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
-{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
-]
